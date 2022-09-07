@@ -1,0 +1,33 @@
+<!-- This SVG animation was created with https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 435 50'
+    style='background-color: #00000000;'
+    width='435px' height='50px'>
+    
+    <path id='path0'>
+        <animate id='d0' attributeName='d' dur='5000ms' fill="freeze"
+            begin='0s;d1.end' keyTimes="0;0;0.8;1"
+            values='m0,25 h0 ; m0,25 h0 ; m0,25 h435 ; m0,25 h435' />
+    </path>
+    <text font-family='"Copperplate", monospace' fill='#3C9019' font-size='20'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path0'>
+            This is probably not the repo you&#039;re looking for...
+        </textPath>
+    </text>
+
+    <path id='path1'>
+        <animate id='d1' attributeName='d' dur='10000ms' fill="freeze"
+            begin='0s;d1.end' keyTimes="0;0.5;0.9;1"
+            values='m0,50 h0 ; m0,50 h0 ; m0,50 h435 ; m0,50 h435' />
+    </path>
+    <text font-family='"Copperplate", monospace' fill='#3C9019' font-size='20'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path1'>
+            But if it is ... welcome!
+        </textPath>
+    </text>
+</svg>
